@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a1e551922b81ce40b6579726b70c93f, type: 3}
+  m_Name: dp_ava_05
+  m_EditorClassIdentifier: 
+  Version: 65536
+  Name: ava_05
+  DataCellMap: {fileID: 11400000, guid: 3027a42575f2e0d4bad9bcb0dca40f10, type: 2}
+  DataAnimation:
+  - {fileID: 11400000, guid: 01d68c999e3382c4d9ec120ef189ad37, type: 2}
+  - {fileID: 11400000, guid: fef847f0009cb5e499ae5ab8b278fb69, type: 2}
+  DataEffect:
+  - {fileID: 11400000, guid: f8cc35016a2309d42aba5b48b78eca89, type: 2}
+  - {fileID: 11400000, guid: 7bc5b20de7eb8f4459e9d5240f1ec9d0, type: 2}
+  DataSequence: []
+  PrefabAnimation:
+  - {fileID: 3547958658561598349, guid: cf88a612feac45448b2207f1e7784503, type: 3}
+  - {fileID: 7408660675170203106, guid: b489b2264865d4849b9339e746402161, type: 3}
+  PrefabEffect:
+  - {fileID: 5100137885588400553, guid: bb240061a034f3b4a93051b428a57516, type: 3}
+  - {fileID: 6034015256930214753, guid: 06542d8074d035341a30efceabe01728, type: 3}
+  TableTexture:
+  - {fileID: 2800000, guid: f569eef0d54e9024b93a0868245e93f6, type: 3}

@@ -1,0 +1,242 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 854a5a324e3218743b933d869553c231, type: 3}
+  m_Name: de_ava_0004_win_01
+  m_EditorClassIdentifier: 
+  Version: 65538
+  Name: ava_0004_win_01
+  DataProject: {fileID: 11400000, guid: 5912763a1d46c734d9c44ce0b421c635, type: 2}
+  FlagData: 0
+  SeedRandom: 0
+  VersionRenderer: 2
+  CountMaxParticle: 0
+  CountFramePerSecond: 30
+  ScaleLayout: {x: 1, y: 1}
+  TableParts:
+  - Name: Root
+    ID: 0
+    IDParent: -1
+    TableIDChild: 010000000200000003000000
+    Feature: 0
+    IndexEmitter: -1
+  - Name: Emitter_1
+    ID: 1
+    IDParent: 0
+    TableIDChild: 
+    Feature: 1
+    IndexEmitter: 0
+  - Name: Emitter_2
+    ID: 2
+    IDParent: 0
+    TableIDChild: 
+    Feature: 1
+    IndexEmitter: 1
+  - Name: Emitter_3
+    ID: 3
+    IDParent: 0
+    TableIDChild: 
+    Feature: 1
+    IndexEmitter: 2
+  TableEmitter:
+  - FlagData: 22024193
+    OperationBlendTarget: 1
+    IndexCellMap: 0
+    IndexCell: 101
+    Angle:
+      Main: 0
+      Sub: 360
+    GravityDirectional: {x: 0, y: 0}
+    GravityPointPosition: {x: 0, y: 0}
+    GravityPointPower: 0
+    Position:
+      Main: {x: 0, y: 0}
+      Sub: {x: 0, y: 0}
+    Rotation:
+      Main: 0
+      Sub: 0
+    RotationFluctuation:
+      Main: 0
+      Sub: 0
+    RotationFluctuationRate: 0
+    RotationFluctuationRateTime: 0
+    RateTangentialAcceleration:
+      Main: 0
+      Sub: 0
+    ScaleStart:
+      Main: {x: 1, y: 1}
+      Sub: {x: 0, y: 0}
+    ScaleRateStart:
+      Main: 0
+      Sub: 0.33333334
+    ScaleEnd:
+      Main: {x: 0, y: 0}
+      Sub: {x: 0, y: 0}
+    ScaleRateEnd:
+      Main: 0
+      Sub: 0
+    Delay: 0
+    ColorVertex:
+      Main: {r: 0.8156863, g: 0.3254902, b: 0, a: 1}
+      Sub: {r: 0.18431371, g: 0.5372549, b: 0.67058825, a: 0}
+    ColorVertexFluctuation:
+      Main: {r: 1, g: 1, b: 1, a: 1}
+      Sub: {r: 1, g: 1, b: 1, a: 1}
+    AlphaFadeStart: 0.25
+    AlphaFadeEnd: 0.75
+    Speed:
+      Main: 5
+      Sub: 6.458334
+    SpeedFluctuation:
+      Main: 0
+      Sub: 0
+    TurnDirectionFluctuation: 0
+    SeedRandom: 7573
+    DurationEmitter: 30
+    Interval: 1
+    DurationParticle:
+      Main: 30
+      Sub: 38
+    CountParticleMax: 20
+    CountParticleEmit: 4
+    CountPartsMaximum: 0
+    TablePatternEmit: []
+    TablePatternOffset: 0000000000000000000000000000000001000000010000000100000001000000020000000200000002000000020000000300000003000000030000000300000004000000040000000400000004000000
+    TableSeedParticle: 
+  - FlagData: 20983813
+    OperationBlendTarget: 1
+    IndexCellMap: 0
+    IndexCell: 83
+    Angle:
+      Main: 0
+      Sub: 360
+    GravityDirectional: {x: 0, y: 0}
+    GravityPointPosition: {x: 0, y: 0}
+    GravityPointPower: 0
+    Position:
+      Main: {x: 0, y: 0}
+      Sub: {x: 0, y: 0}
+    Rotation:
+      Main: 0
+      Sub: 0
+    RotationFluctuation:
+      Main: 0
+      Sub: 0
+    RotationFluctuationRate: 0
+    RotationFluctuationRateTime: 0
+    RateTangentialAcceleration:
+      Main: 0
+      Sub: 0
+    ScaleStart:
+      Main: {x: 0, y: 0}
+      Sub: {x: 0.16666667, y: 0.5}
+    ScaleRateStart:
+      Main: 1
+      Sub: 0
+    ScaleEnd:
+      Main: {x: 0.16666667, y: 1}
+      Sub: {x: 0.08333333, y: 2.25}
+    ScaleRateEnd:
+      Main: 1
+      Sub: 0
+    Delay: 0
+    ColorVertex:
+      Main: {r: 1, g: 1, b: 1, a: 1}
+      Sub: {r: 1, g: 1, b: 1, a: 1}
+    ColorVertexFluctuation:
+      Main: {r: 1, g: 1, b: 1, a: 1}
+      Sub: {r: 1, g: 1, b: 1, a: 1}
+    AlphaFadeStart: 0.25
+    AlphaFadeEnd: 0.75
+    Speed:
+      Main: 0
+      Sub: 5.2083335
+    SpeedFluctuation:
+      Main: 0
+      Sub: 0
+    TurnDirectionFluctuation: 0
+    SeedRandom: 7573
+    DurationEmitter: 24
+    Interval: 1
+    DurationParticle:
+      Main: 13
+      Sub: 20
+    CountParticleMax: 20
+    CountParticleEmit: 1
+    CountPartsMaximum: 0
+    TablePatternEmit: []
+    TablePatternOffset: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f00000010000000110000001200000013000000
+    TableSeedParticle: 
+  - FlagData: 24129537
+    OperationBlendTarget: 1
+    IndexCellMap: 0
+    IndexCell: 82
+    Angle:
+      Main: 0
+      Sub: 45
+    GravityDirectional: {x: 0, y: 0}
+    GravityPointPosition: {x: 0, y: 0}
+    GravityPointPower: 0
+    Position:
+      Main: {x: 0, y: 0}
+      Sub: {x: 0, y: 0}
+    Rotation:
+      Main: 0
+      Sub: 0
+    RotationFluctuation:
+      Main: 0
+      Sub: 0
+    RotationFluctuationRate: 0
+    RotationFluctuationRateTime: 0
+    RateTangentialAcceleration:
+      Main: 0
+      Sub: 0
+    ScaleStart:
+      Main: {x: 1, y: 1}
+      Sub: {x: 0, y: 0}
+    ScaleRateStart:
+      Main: 0
+      Sub: 0
+    ScaleEnd:
+      Main: {x: 1, y: 1}
+      Sub: {x: 0, y: 0}
+    ScaleRateEnd:
+      Main: 4
+      Sub: 0
+    Delay: 0
+    ColorVertex:
+      Main: {r: 1, g: 0.33333334, b: 0, a: 1}
+      Sub: {r: 0, g: 0, b: 0, a: 0}
+    ColorVertexFluctuation:
+      Main: {r: 1, g: 1, b: 1, a: 1}
+      Sub: {r: 0, g: 0, b: 0, a: 0}
+    AlphaFadeStart: 0.25
+    AlphaFadeEnd: 0.75
+    Speed:
+      Main: 0
+      Sub: 0
+    SpeedFluctuation:
+      Main: 0
+      Sub: 0
+    TurnDirectionFluctuation: 0
+    SeedRandom: 7573
+    DurationEmitter: 30
+    Interval: 17
+    DurationParticle:
+      Main: 35
+      Sub: 5
+    CountParticleMax: 20
+    CountParticleEmit: 1
+    CountPartsMaximum: 0
+    TablePatternEmit: []
+    TablePatternOffset: 00000000110000002200000033000000440000005500000066000000770000008800000099000000aa000000bb000000cc000000dd000000ee000000ff00000010010000210100003201000043010000
+    TableSeedParticle: 
+  TableIndexEmitterOrderDraw: 000000000100000002000000

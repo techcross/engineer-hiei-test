@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a1e551922b81ce40b6579726b70c93f, type: 3}
+  m_Name: dp_ava_08
+  m_EditorClassIdentifier: 
+  Version: 65536
+  Name: ava_08
+  DataCellMap: {fileID: 11400000, guid: 0085f0f484f29d1499c177e2f1b69071, type: 2}
+  DataAnimation:
+  - {fileID: 11400000, guid: 30957f542e816384caacfd82974f2210, type: 2}
+  - {fileID: 11400000, guid: f15b9d7ccbb4d0e40a868183ccbc1c4e, type: 2}
+  - {fileID: 11400000, guid: 8a497ee41473110499b635d4a5a5f2f0, type: 2}
+  - {fileID: 11400000, guid: ec491a0eec839cf4193503fcdbb8433f, type: 2}
+  - {fileID: 11400000, guid: e8dee66d0717a644a86210a0e3dadfcb, type: 2}
+  - {fileID: 11400000, guid: b08413e75024f434ea0f13a1047d305b, type: 2}
+  - {fileID: 11400000, guid: 32662bdca802f7f499b3c8112a1d0b30, type: 2}
+  - {fileID: 11400000, guid: 1c23c750779579c44b5ed10ac75b1166, type: 2}
+  DataEffect:
+  - {fileID: 11400000, guid: cdf7d7621003e9e44888c730196a8246, type: 2}
+  - {fileID: 11400000, guid: 69817934fd3763649a6c64b1e3fcc836, type: 2}
+  DataSequence: []
+  PrefabAnimation:
+  - {fileID: 717671474667871550, guid: acfcc0b582bf5824bb2768aa6a359d38, type: 3}
+  - {fileID: 5412801170272197508, guid: 1c50e6ff8682fb645a57bb8b9b38c5dd, type: 3}
+  - {fileID: 4505119622698731357, guid: 71fbcf3e79fdf5a4ebbe65835749d830, type: 3}
+  - {fileID: 2939677557854034761, guid: 4282234402779024db6476bfacce1f87, type: 3}
+  - {fileID: 5442489260162473093, guid: ea29fa4c87cbcce4faa6b85f6b9e0fe6, type: 3}
+  - {fileID: 5545835187091924095, guid: bb51c90e5b479384e8ac42f3f194dab9, type: 3}
+  - {fileID: 4374877184652597044, guid: f0ce5cf3c8a8e5e49b7ba0e0ee923ed1, type: 3}
+  - {fileID: 8912356249407295311, guid: 4b502ead2f6ce914fb9dc2e92a8df71b, type: 3}
+  PrefabEffect:
+  - {fileID: 1551406899434082921, guid: 463733486923f8842baead0811b6dfa3, type: 3}
+  - {fileID: 838656751343218859, guid: f88b7890f53515f458919491dd743393, type: 3}
+  TableTexture:
+  - {fileID: 2800000, guid: 09318d4bb0fe22740a5c3dc5cb13c49a, type: 3}
+  - {fileID: 2800000, guid: 650e440af51884c4cb7b5bd13b3c63af, type: 3}
+  - {fileID: 2800000, guid: 40a19e35fd2fcc74481949ecb1b107de, type: 3}
+  - {fileID: 2800000, guid: ee08b33624fb8064094991b7212539f9, type: 3}

@@ -1,0 +1,1164 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 194737b46e04ff84a936435d5601662f, type: 3}
+  m_Name: dc_ava_06
+  m_EditorClassIdentifier: 
+  Version: 65537
+  DataProject: {fileID: 11400000, guid: 0e4527affa90f7843b89daf93557e174, type: 2}
+  TableCellMap:
+  - Name: ava_0020_plist
+    SizeOriginal: {x: 2048, y: 2048}
+    TableCell:
+    - Name: L_hoot
+      Rectangle:
+        serializedVersion: 2
+        x: 1928
+        y: 161
+        width: 47
+        height: 54
+      Pivot: {x: 23.960785, y: 22.344828}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: L_reg1
+      Rectangle:
+        serializedVersion: 2
+        x: 1539
+        y: 7
+        width: 116
+        height: 156
+      Pivot: {x: 54.13333, y: 31.199999}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: L_reg2
+      Rectangle:
+        serializedVersion: 2
+        x: 1663
+        y: 7
+        width: 106
+        height: 146
+      Pivot: {x: 54.927273, y: 26.105959}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: R_hoot
+      Rectangle:
+        serializedVersion: 2
+        x: 1983
+        y: 161
+        width: 46
+        height: 55
+      Pivot: {x: 22.08, y: 21.440678}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: R_reg1
+      Rectangle:
+        serializedVersion: 2
+        x: 1777
+        y: 7
+        width: 106
+        height: 166
+      Pivot: {x: 53.963634, y: 38.08235}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: R_reg2
+      Rectangle:
+        serializedVersion: 2
+        x: 1891
+        y: 7
+        width: 106
+        height: 146
+      Pivot: {x: 53, y: 26.28}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: ava_0020_plist
+      Rectangle:
+        serializedVersion: 2
+        x: 4
+        y: 1769
+        width: 78
+        height: 227
+      Pivot: {x: 31, y: 10.000001}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: ava_0020_plist_1
+      Rectangle:
+        serializedVersion: 2
+        x: 3
+        y: 1537
+        width: 122
+        height: 231
+      Pivot: {x: 15.999999, y: 12.211456}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: ava_0020_plist_10
+      Rectangle:
+        serializedVersion: 2
+        x: 1236
+        y: 1524
+        width: 55
+        height: 73
+      Pivot: {x: 20, y: 32}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: ava_0020_plist_11
+      Rectangle:
+        serializedVersion: 2
+        x: 1063
+        y: 1845
+        width: 132
+        height: 112
+      Pivot: {x: 121, y: 7}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: ava_0020_plist_12
+      Rectangle:
+        serializedVersion: 2
+        x: 1593
+        y: 1415
+        width: 26
+        height: 70
+      Pivot: {x: 13, y: 1.9999999}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: ava_0020_plist_13
+      Rectangle:
+        serializedVersion: 2
+        x: 914
+        y: 1931
+        width: 72
+        height: 47
+      Pivot: {x: 54, y: 26}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: ava_0020_plist_14
+      Rectangle:
+        serializedVersion: 2
+        x: 11
+        y: 1171
+        width: 305
+        height: 359
+      Pivot: {x: 182.42088, y: 14.5934925}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: ava_0020_plist_15
+      Rectangle:
+        serializedVersion: 2
+        x: 267
+        y: 1544
+        width: 50
+        height: 211
+      Pivot: {x: 9, y: 7.672726}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: ava_0020_plist_16
+      Rectangle:
+        serializedVersion: 2
+        x: 474
+        y: 1538
+        width: 116
+        height: 246
+      Pivot: {x: 103, y: 7.0000005}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: ava_0020_plist_17
+      Rectangle:
+        serializedVersion: 2
+        x: 830
+        y: 427
+        width: 98
+        height: 172
+      Pivot: {x: 43.673912, y: 5.6703296}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: ava_0020_plist_18
+      Rectangle:
+        serializedVersion: 2
+        x: 582
+        y: 1535
+        width: 103
+        height: 421
+      Pivot: {x: 63, y: 16.000002}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: ava_0020_plist_19
+      Rectangle:
+        serializedVersion: 2
+        x: 869
+        y: 1169
+        width: 161
+        height: 423
+      Pivot: {x: 145, y: 16.999996}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: ava_0020_plist_2
+      Rectangle:
+        serializedVersion: 2
+        x: 150
+        y: 1889
+        width: 94
+        height: 42
+      Pivot: {x: 47, y: 21}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: ava_0020_plist_20
+      Rectangle:
+        serializedVersion: 2
+        x: 1467
+        y: 1649
+        width: 101
+        height: 202
+      Pivot: {x: 86, y: 15.000002}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: ava_0020_plist_21
+      Rectangle:
+        serializedVersion: 2
+        x: 1978
+        y: 1171
+        width: 60
+        height: 200
+      Pivot: {x: 12.173914, y: 17.224878}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: ava_0020_plist_22
+      Rectangle:
+        serializedVersion: 2
+        x: 1971
+        y: 1572
+        width: 71
+        height: 140
+      Pivot: {x: 8, y: 8.344371}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: ava_0020_plist_23
+      Rectangle:
+        serializedVersion: 2
+        x: 932
+        y: 429
+        width: 127
+        height: 125
+      Pivot: {x: 55.033333, y: 66.23932}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: ava_0020_plist_24
+      Rectangle:
+        serializedVersion: 2
+        x: 1199
+        y: 1823
+        width: 92
+        height: 84
+      Pivot: {x: 68, y: 48}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: ava_0020_plist_25
+      Rectangle:
+        serializedVersion: 2
+        x: 489
+        y: 1789
+        width: 86
+        height: 89
+      Pivot: {x: 76.07693, y: 9.423529}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: ava_0020_plist_26
+      Rectangle:
+        serializedVersion: 2
+        x: 795
+        y: 1754
+        width: 59
+        height: 86
+      Pivot: {x: 10, y: 8.999999}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: ava_0020_plist_27
+      Rectangle:
+        serializedVersion: 2
+        x: 1001
+        y: 1850
+        width: 59
+        height: 85
+      Pivot: {x: 48, y: 8.999999}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: ava_0020_plist_28
+      Rectangle:
+        serializedVersion: 2
+        x: 83
+        y: 1884
+        width: 65
+        height: 69
+      Pivot: {x: 38.59375, y: 15.923076}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: ava_0020_plist_29
+      Rectangle:
+        serializedVersion: 2
+        x: 1369
+        y: 1890
+        width: 80
+        height: 70
+      Pivot: {x: 5.0632906, y: 33.384617}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: ava_0020_plist_3
+      Rectangle:
+        serializedVersion: 2
+        x: 323
+        y: 1533
+        width: 149
+        height: 253
+      Pivot: {x: 133, y: 12.000003}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: ava_0020_plist_30
+      Rectangle:
+        serializedVersion: 2
+        x: 914
+        y: 1849
+        width: 82
+        height: 83
+      Pivot: {x: 9.5348835, y: 8.405063}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: ava_0020_plist_31
+      Rectangle:
+        serializedVersion: 2
+        x: 1062
+        y: 429
+        width: 113
+        height: 236
+      Pivot: {x: 48, y: 7.999997}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: ava_0020_plist_32
+      Rectangle:
+        serializedVersion: 2
+        x: 748
+        y: 1936
+        width: 39
+        height: 33
+      Pivot: {x: 32.933334, y: 7.0714283}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: ava_0020_plist_33
+      Rectangle:
+        serializedVersion: 2
+        x: 1236
+        y: 1599
+        width: 37
+        height: 33
+      Pivot: {x: 5.9999995, y: 12}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: ava_0020_plist_34
+      Rectangle:
+        serializedVersion: 2
+        x: 1594
+        y: 1488
+        width: 38
+        height: 43
+      Pivot: {x: 25, y: 9}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: ava_0020_plist_35
+      Rectangle:
+        serializedVersion: 2
+        x: 1636
+        y: 1172
+        width: 78
+        height: 766
+      Pivot: {x: 38, y: 427}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: ava_0020_plist_36
+      Rectangle:
+        serializedVersion: 2
+        x: 1569
+        y: 1809
+        width: 50
+        height: 148
+      Pivot: {x: 34, y: 15}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: ava_0020_plist_37
+      Rectangle:
+        serializedVersion: 2
+        x: 1096
+        y: 1431
+        width: 113
+        height: 205
+      Pivot: {x: 104, y: 31.000002}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: ava_0020_plist_38
+      Rectangle:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 102
+        height: 99
+      Pivot: {x: 50, y: 39}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: ava_0020_plist_39
+      Rectangle:
+        serializedVersion: 2
+        x: 116
+        y: 0
+        width: 142
+        height: 149
+      Pivot: {x: 67, y: 73}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: ava_0020_plist_4
+      Rectangle:
+        serializedVersion: 2
+        x: 1714
+        y: 1589
+        width: 112
+        height: 245
+      Pivot: {x: 8.220185, y: 5.9999986}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: ava_0020_plist_40
+      Rectangle:
+        serializedVersion: 2
+        x: 1591
+        y: 1536
+        width: 41
+        height: 38
+      Pivot: {x: 3.9999998, y: 15}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: ava_0020_plist_41
+      Rectangle:
+        serializedVersion: 2
+        x: 909
+        y: 557
+        width: 146
+        height: 211
+      Pivot: {x: 135.4964, y: 9.9424095}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: ava_0020_plist_42
+      Rectangle:
+        serializedVersion: 2
+        x: 961
+        y: 1601
+        width: 46
+        height: 34
+      Pivot: {x: 19.40625, y: 26.536585}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: ava_0020_plist_43
+      Rectangle:
+        serializedVersion: 2
+        x: 50
+        y: 757
+        width: 213
+        height: 362
+      Pivot: {x: 115.02, y: 270.72208}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: ava_0020_plist_44
+      Rectangle:
+        serializedVersion: 2
+        x: 801
+        y: 817
+        width: 364
+        height: 308
+      Pivot: {x: 81.99999, y: 130}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: ava_0020_plist_45
+      Rectangle:
+        serializedVersion: 2
+        x: 266
+        y: 776
+        width: 440
+        height: 328
+      Pivot: {x: 220, y: 164}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: ava_0020_plist_46
+      Rectangle:
+        serializedVersion: 2
+        x: 42
+        y: 541
+        width: 346
+        height: 198
+      Pivot: {x: 123, y: 101}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: ava_0020_plist_47
+      Rectangle:
+        serializedVersion: 2
+        x: 262
+        y: 0
+        width: 332
+        height: 133
+      Pivot: {x: 166, y: 66.5}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: ava_0020_plist_48
+      Rectangle:
+        serializedVersion: 2
+        x: 1579
+        y: 795
+        width: 113
+        height: 314
+      Pivot: {x: 56.5, y: 157}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: ava_0020_plist_49
+      Rectangle:
+        serializedVersion: 2
+        x: 1729
+        y: 875
+        width: 185
+        height: 206
+      Pivot: {x: 92.5, y: 103}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: ava_0020_plist_5
+      Rectangle:
+        serializedVersion: 2
+        x: 1380
+        y: 1171
+        width: 255
+        height: 241
+      Pivot: {x: 135.40698, y: 9.999999}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: ava_0020_plist_50
+      Rectangle:
+        serializedVersion: 2
+        x: 1328
+        y: 832
+        width: 25
+        height: 32
+      Pivot: {x: 12.5, y: 16}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: ava_0020_plist_51
+      Rectangle:
+        serializedVersion: 2
+        x: 80
+        y: 1845
+        width: 38
+        height: 37
+      Pivot: {x: 7.0000005, y: 17}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: ava_0020_plist_52
+      Rectangle:
+        serializedVersion: 2
+        x: 254
+        y: 1786
+        width: 71
+        height: 242
+      Pivot: {x: 18, y: 13.000001}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: ava_0020_plist_53
+      Rectangle:
+        serializedVersion: 2
+        x: 1376
+        y: 1647
+        width: 91
+        height: 234
+      Pivot: {x: 71.57304, y: 7.1842113}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: ava_0020_plist_54
+      Rectangle:
+        serializedVersion: 2
+        x: 1031
+        y: 1169
+        width: 259
+        height: 251
+      Pivot: {x: 126.104866, y: 24.290321}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: ava_0020_plist_55
+      Rectangle:
+        serializedVersion: 2
+        x: 1166
+        y: 1634
+        width: 118
+        height: 186
+      Pivot: {x: 65, y: 146}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: ava_0020_plist_56
+      Rectangle:
+        serializedVersion: 2
+        x: 1235
+        y: 1420
+        width: 63
+        height: 102
+      Pivot: {x: 13.999999, y: 92}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: ava_0020_plist_57
+      Rectangle:
+        serializedVersion: 2
+        x: 1968
+        y: 1058
+        width: 72
+        height: 86
+      Pivot: {x: 62, y: 11}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: ava_0020_plist_58
+      Rectangle:
+        serializedVersion: 2
+        x: 148
+        y: 1933
+        width: 46
+        height: 50
+      Pivot: {x: 5, y: 40}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: ava_0020_plist_59
+      Rectangle:
+        serializedVersion: 2
+        x: 1375
+        y: 1412
+        width: 215
+        height: 235
+      Pivot: {x: 121, y: 211}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: ava_0020_plist_6
+      Rectangle:
+        serializedVersion: 2
+        x: 1028
+        y: 1419
+        width: 205
+        height: 215
+      Pivot: {x: 112, y: 9.999998}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: ava_0020_plist_60
+      Rectangle:
+        serializedVersion: 2
+        x: 316
+        y: 1174
+        width: 279
+        height: 357
+      Pivot: {x: 41.748177, y: 35.114754}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: ava_0020_plist_61
+      Rectangle:
+        serializedVersion: 2
+        x: 926
+        y: 1665
+        width: 72
+        height: 160
+      Pivot: {x: 53, y: 13.000002}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: ava_0020_plist_62
+      Rectangle:
+        serializedVersion: 2
+        x: 1027
+        y: 1642
+        width: 126
+        height: 190
+      Pivot: {x: 106.527275, y: 17.609756}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: ava_0020_plist_63
+      Rectangle:
+        serializedVersion: 2
+        x: 1975
+        y: 1724
+        width: 70
+        height: 126
+      Pivot: {x: 26, y: 6.9999995}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: ava_0020_plist_64
+      Rectangle:
+        serializedVersion: 2
+        x: 1974
+        y: 1381
+        width: 63
+        height: 186
+      Pivot: {x: 16, y: 12.659689}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: ava_0020_plist_65
+      Rectangle:
+        serializedVersion: 2
+        x: 868
+        y: 194
+        width: 129
+        height: 229
+      Pivot: {x: 72, y: 11}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: ava_0020_plist_66
+      Rectangle:
+        serializedVersion: 2
+        x: 1466
+        y: 1853
+        width: 90
+        height: 60
+      Pivot: {x: 6.9999995, y: 34}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: ava_0020_plist_67
+      Rectangle:
+        serializedVersion: 2
+        x: 1294
+        y: 1167
+        width: 81
+        height: 777
+      Pivot: {x: 40.5, y: 388.5}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: ava_0020_plist_68
+      Rectangle:
+        serializedVersion: 2
+        x: 1844
+        y: 1170
+        width: 66
+        height: 772
+      Pivot: {x: 33, y: 386}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: ava_0020_plist_69
+      Rectangle:
+        serializedVersion: 2
+        x: 1912
+        y: 1169
+        width: 62
+        height: 772
+      Pivot: {x: 31, y: 386}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: ava_0020_plist_7
+      Rectangle:
+        serializedVersion: 2
+        x: 685
+        y: 1515
+        width: 174
+        height: 245
+      Pivot: {x: 149.14285, y: 11.37131}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: ava_0020_plist_70
+      Rectangle:
+        serializedVersion: 2
+        x: 1720
+        y: 446
+        width: 328
+        height: 332
+      Pivot: {x: 164, y: 166}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: ava_0020_plist_71
+      Rectangle:
+        serializedVersion: 2
+        x: 610
+        y: 0
+        width: 232
+        height: 280
+      Pivot: {x: 116, y: 140}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: ava_0020_plist_72
+      Rectangle:
+        serializedVersion: 2
+        x: 27
+        y: 287
+        width: 347
+        height: 223
+      Pivot: {x: 165, y: 203}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: ava_0020_plist_73
+      Rectangle:
+        serializedVersion: 2
+        x: 394
+        y: 288
+        width: 284
+        height: 249
+      Pivot: {x: 134, y: 233}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: ava_0020_plist_74
+      Rectangle:
+        serializedVersion: 2
+        x: 1912
+        y: 1168
+        width: 61
+        height: 302
+      Pivot: {x: 27, y: 300}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: ava_0020_plist_75
+      Rectangle:
+        serializedVersion: 2
+        x: 1842
+        y: 1167
+        width: 69
+        height: 310
+      Pivot: {x: 34, y: 299}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: ava_0020_plist_76
+      Rectangle:
+        serializedVersion: 2
+        x: 1516
+        y: 1914
+        width: 49
+        height: 52
+      Pivot: {x: 8.000001, y: 44}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: ava_0020_plist_77
+      Rectangle:
+        serializedVersion: 2
+        x: 1407
+        y: 480
+        width: 299
+        height: 298
+      Pivot: {x: 149.5, y: 149}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: ava_0020_plist_78
+      Rectangle:
+        serializedVersion: 2
+        x: 1168
+        y: 530
+        width: 187
+        height: 222
+      Pivot: {x: 117.06504, y: 113}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: ava_0020_plist_8
+      Rectangle:
+        serializedVersion: 2
+        x: 489
+        y: 1884
+        width: 75
+        height: 71
+      Pivot: {x: 43, y: 18}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: ava_0020_plist_9
+      Rectangle:
+        serializedVersion: 2
+        x: 1714
+        y: 1835
+        width: 119
+        height: 132
+      Pivot: {x: 111.88034, y: 11.000001}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: body
+      Rectangle:
+        serializedVersion: 2
+        x: 1387
+        y: 17
+        width: 102
+        height: 166
+      Pivot: {x: 64, y: 126}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: eye_1
+      Rectangle:
+        serializedVersion: 2
+        x: 1031
+        y: 357
+        width: 146
+        height: 66
+      Pivot: {x: 73, y: 33}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: eye_2
+      Rectangle:
+        serializedVersion: 2
+        x: 1185
+        y: 357
+        width: 146
+        height: 66
+      Pivot: {x: 73, y: 33}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: eye_3
+      Rectangle:
+        serializedVersion: 2
+        x: 1339
+        y: 357
+        width: 146
+        height: 66
+      Pivot: {x: 73, y: 33}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: eye_4
+      Rectangle:
+        serializedVersion: 2
+        x: 1493
+        y: 357
+        width: 146
+        height: 66
+      Pivot: {x: 73, y: 33}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: eye_5
+      Rectangle:
+        serializedVersion: 2
+        x: 1647
+        y: 361
+        width: 146
+        height: 66
+      Pivot: {x: 73, y: 33}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: head
+      Rectangle:
+        serializedVersion: 2
+        x: 1031
+        y: 7
+        width: 296
+        height: 296
+      Pivot: {x: 138, y: 268}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: mayu_1
+      Rectangle:
+        serializedVersion: 2
+        x: 1031
+        y: 311
+        width: 136
+        height: 38
+      Pivot: {x: 68, y: 19}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: mayu_2
+      Rectangle:
+        serializedVersion: 2
+        x: 1175
+        y: 311
+        width: 136
+        height: 38
+      Pivot: {x: 68, y: 19}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: mayu_3
+      Rectangle:
+        serializedVersion: 2
+        x: 1319
+        y: 311
+        width: 136
+        height: 38
+      Pivot: {x: 68, y: 19}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: mayu_4
+      Rectangle:
+        serializedVersion: 2
+        x: 1463
+        y: 311
+        width: 136
+        height: 38
+      Pivot: {x: 68, y: 19}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: mayu_5
+      Rectangle:
+        serializedVersion: 2
+        x: 1607
+        y: 311
+        width: 136
+        height: 38
+      Pivot: {x: 68, y: 19}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: mouth_1
+      Rectangle:
+        serializedVersion: 2
+        x: 1335
+        y: 277
+        width: 61
+        height: 26
+      Pivot: {x: 30.5, y: 13}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: mouth_2
+      Rectangle:
+        serializedVersion: 2
+        x: 1404
+        y: 277
+        width: 61
+        height: 26
+      Pivot: {x: 30.5, y: 13}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: mouth_3
+      Rectangle:
+        serializedVersion: 2
+        x: 1473
+        y: 277
+        width: 61
+        height: 26
+      Pivot: {x: 30.5, y: 13}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: mouth_4
+      Rectangle:
+        serializedVersion: 2
+        x: 1542
+        y: 277
+        width: 61
+        height: 26
+      Pivot: {x: 30.5, y: 13}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: mouth_5
+      Rectangle:
+        serializedVersion: 2
+        x: 1611
+        y: 277
+        width: 61
+        height: 26
+      Pivot: {x: 30.5, y: 13}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: mouth_6
+      Rectangle:
+        serializedVersion: 2
+        x: 1682
+        y: 278
+        width: 61
+        height: 26
+      Pivot: {x: 30.5, y: 13}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: shadow
+      Rectangle:
+        serializedVersion: 2
+        x: 1539
+        y: 181
+        width: 381
+        height: 74
+      Pivot: {x: 190.5, y: 37}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
